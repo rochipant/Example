@@ -1,0 +1,9 @@
+api:
+  url: "https://api.example.com/data"
+  key: "your_api_key_here"
+
+database:
+  host: "localhost"
+  user: "your_username"
+  password: "your_password"
+  dbname: "your_database"
